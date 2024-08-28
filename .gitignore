@@ -1,0 +1,4 @@
+# to ignore the unnecessary files while pushing to git
+
+node_modules
+

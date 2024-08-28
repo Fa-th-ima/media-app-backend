@@ -1,0 +1,110 @@
+{
+  "allVideos": [
+    {
+      "id": "a734",
+      "caption": "Me before you",
+      "url": "https://m.media-amazon.com/images/I/914woZe6eBL._AC_UF1000,1000_QL80_.jpg",
+      "embedLink": "https://www.youtube.com/embed/J-lcPRmI6jY?si=EXfdMRnL5K0vedej"
+    },
+    {
+      "caption": "Deadpool",
+      "url": "https://images.justwatch.com/poster/244252041/s332/deadpool",
+      "embedLink": "https://www.youtube.com/embed/73_1biulkYk?si=emRzIPpEo7nQvPsk",
+      "id": "JTqTcBS"
+    },
+    {
+      "caption": "Avengers",
+      "url": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_.jpg",
+      "embedLink": "https://www.youtube.com/embed/6ZfuNTqbHE8?si=qaaBGkYewyUIPaHZ",
+      "id": "YC7sYZ4"
+    },
+    {
+      "caption": "Kill",
+      "url": "https://upload.wikimedia.org/wikipedia/en/7/7b/Kill_poster.jpeg",
+      "embedLink": "https://www.youtube.com/embed/y2HZqeVeBNc?si=MXGD1rWvIJzaUjNJ",
+      "id": "VQEZwl0"
+    },
+    {
+      "caption": "Arm",
+      "url": "https://assetscdn1.paytm.com/images/cinema/ARM-min-54cd2ac0-0454-11ee-8dab-5be1c405de47.jpg",
+      "embedLink": "https://www.youtube.com/embed/rFgS10V8908?si=cQLZ4hDdSkr6x8Ft",
+      "id": "MLpd6HQ"
+    },
+    {
+      "caption": "Harry Potter",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPzcBfIBxhcdGTTwOShMp8PhhyEiLFyv7ceQ&s",
+      "embedLink": "https://www.youtube.com/embed/LLAaW1EgyY8?si=GOxmwGzq6hpWbZjz",
+      "id": "mGCVbR3"
+    }
+  ],
+  "watchHistory": [
+    {
+      "id": "ed51",
+      "caption": "Avengers",
+      "embedLink": "https://www.youtube.com/embed/6ZfuNTqbHE8?si=zO_45KcguBcTWeO7",
+      "timestamp": "08/27/2024, 03:17:37 PM"
+    },
+    {
+      "id": "033a",
+      "caption": "Deadpool",
+      "embedLink": "https://www.youtube.com/embed/6/01/15/deadpool2jpg-19c159.jpg",
+      "timestamp": "08/28/2024, 10:49:19 AM"
+    },
+    {
+      "caption": "Deadpool",
+      "embedLink": "https://www.youtube.com/embed/6/01/15/deadpool2jpg-19c159.jpg",
+      "timestamp": "08/28/2024, 02:53:00 PM",
+      "id": "FyYxyzv"
+    },
+    {
+      "caption": "Avengers",
+      "embedLink": "https://www.youtube.com/embed/6ZfuNTqbHE8?si=zO_45KcguBcTWeO7",
+      "timestamp": "08/28/2024, 03:04:43 PM",
+      "id": "C5VdMIj"
+    },
+    {
+      "caption": "Deadpool",
+      "embedLink": "https://www.youtube.com/embed/73_1biulkYk?si=emRzIPpEo7nQvPsk",
+      "timestamp": "08/28/2024, 04:45:45 PM",
+      "id": "db5B56_"
+    },
+    {
+      "caption": "Avengers",
+      "embedLink": "https://www.youtube.com/embed/6ZfuNTqbHE8?si=qaaBGkYewyUIPaHZ",
+      "timestamp": "08/28/2024, 04:46:55 PM",
+      "id": "A_9BfpE"
+    }
+  ],
+  "category": [
+    {
+      "categoryName": "English",
+      "allVideos": [
+        {
+          "caption": "Deadpool",
+          "url": "https://images.justwatch.com/poster/244252041/s332/deadpool",
+          "embedLink": "https://www.youtube.com/embed/73_1biulkYk?si=emRzIPpEo7nQvPsk",
+          "id": "JTqTcBS"
+        },
+        {
+          "caption": "Harry Potter",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPzcBfIBxhcdGTTwOShMp8PhhyEiLFyv7ceQ&s",
+          "embedLink": "https://www.youtube.com/embed/LLAaW1EgyY8?si=GOxmwGzq6hpWbZjz",
+          "id": "mGCVbR3"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryName": "Hindi",
+      "allVideos": [
+        {
+          "caption": "Kill",
+          "url": "https://upload.wikimedia.org/wikipedia/en/7/7b/Kill_poster.jpeg",
+          "embedLink": "https://www.youtube.com/embed/y2HZqeVeBNc?si=MXGD1rWvIJzaUjNJ",
+          "id": "VQEZwl0"
+        }
+      ],
+      "id": 2
+    }
+  ]
+}
